@@ -3,7 +3,7 @@
   <img width="300" alt="SAMAI logo" src="https://samai.live/wp-content/uploads/2024/05/logo_retina-300x7BLACK.png">
 </picture>
 
-# GPT-5o SAM AI REMIX
+# GPT-5o REMIX
 
 
 GPT-5o REMIX SAM AI is a proprietary code based on the GPT schema, similar to OpenAI's GPT-4, for the SAM AI App. Restricted to our company developers, GPT-5o can be successfully fine-tuned to perform just as well as large models on a range of NLP tasks including question answering, sentiment analysis, user-specific memory, named entity recognition, Intelligence Processing Unit (IPU) tasks, and our unique #Humanized_Code.
